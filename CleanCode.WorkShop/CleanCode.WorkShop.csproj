@@ -42,7 +42,17 @@
   <ItemGroup>
     <Compile Include="AbstracaoClasse.cs" />
     <Compile Include="AbstracaoClasseRefatorado.cs" />
+    <Compile Include="Comentarios.cs" />
+    <Compile Include="ComentariosRefatorado.cs" />
+    <Compile Include="Dry.cs" />
+    <Compile Include="DryRefatorado.cs" />
+    <Compile Include="Excecoes.cs" />
+    <Compile Include="ExcecoesRefatorado.cs" />
+    <Compile Include="Funcoes.cs" />
+    <Compile Include="FuncoesRefatorado.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RetornoNulo.cs" />
+    <Compile Include="RetornoNuloRefatorado.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
